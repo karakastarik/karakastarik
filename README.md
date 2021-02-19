@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">Financial Risk Analyst, Junior Data Scientist, MA Student in Economics </h3>
+<h3 align="center">Financial Risk Analyst, Jr. Data Scientist, MA Student in Economics </h3>
 
 - 🔭 I’m currently working on **Shiny**
 - 🌱 I’m currently learning **Tenserflow, Julia Language**
