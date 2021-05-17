@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋</h1>
+<h1 align="center">Hi I'm Tarik 👋</h1>
 <h3 align="center">Jr. Data Scientist, MA Student in Economics </h3>
 
 - 🔭 I’m currently working on **Shiny**
