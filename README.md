@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning **Tensorflow, Julia Language**
 - 💬 Ask me about **Shiny, R, Python**
 - 📫 How to reach me: atarikkarakas@gmail.com
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karakastarik)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karakastarik)](https://github.com/anuraghazra/github-readme-stats)
 
