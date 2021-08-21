@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Tarik 👋</h1>
-<h3 align="center">Jr. Data Scientist, MA Student in Economics </h3>
+<h3 align="center">Jr. Data Scientist, PhD Student in Economics </h3>
 
 - 🔭 I’m currently working on **Shiny**
 - 🌱 I’m currently learning **Tensorflow, Julia Language**
