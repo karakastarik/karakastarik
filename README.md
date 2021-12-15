@@ -6,5 +6,7 @@
 - 💬 Ask me about **Shiny, R, Python**
 - 📫 How to reach me: atarikkarakas@gmail.com
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karakastarik&show_icons=true&theme=radical)
 
