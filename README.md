@@ -1,9 +1,9 @@
-<h1 align="center">Hi I'm Tarik 👋</h1>
-<h3 align="center">Jr. Data Scientist, PhD Student in Economics </h3>
+<h1 align="center">Hi, I'm Tarik 👋</h1>
+<h3 align="center">Data Scientist, PhD Student in Economics </h3>
 
-- 🔭 I’m currently working on **Shiny**
-- 🌱 I’m currently learning **Docker, PyTorch**
-- 💬 Ask me about **Shiny, R, Python**
+- 🔭 I’m currently working on **LSTM architecture**
+- 🌱 I’m currently learning **PyTorch, NLP domain**
+- 💬 Ask me about **Shiny, R, Python, Time Series**
 - 📫 How to reach me: atarikkarakas@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=karakastarik)
