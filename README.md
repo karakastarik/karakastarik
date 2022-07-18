@@ -12,7 +12,9 @@
 
 * [Kaggle](https://www.kaggle.com/karakasatarik)
 * [Linkedln](https://www.linkedin.com/in/karakastarik/)
-* [Scholar](https://scholar.google.com/citations?user=vNxPm_oAAAAJ&hl=tr&oi=ao)
+* [Google Scholar](https://scholar.google.com/citations?user=vNxPm_oAAAAJ&hl=tr&oi=ao)
+* [ResearchGate](https://www.researchgate.net/profile/Ahmet-Karakas-5)
+
 
 <h3 > Kaggle Competitions </h3>
 
