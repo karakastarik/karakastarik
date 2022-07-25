@@ -18,7 +18,7 @@
 
 <h3 > Kaggle Competitions </h3>
 
-* Foursquare - Location Matching - Top 6% [Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost) [July 2022]
+* Foursquare - Location Matching - Top 5% [Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost) [July 2022]
 * Anadolu Hayat Emeklilik Datathon - 1st / 114 [Kaggle](https://www.kaggle.com/code/ismaildennizli/1st-place-solution-catpower) [June 2022]
 * EnerjiSA Energy Datathon - 3rd / 207 [Github](https://github.com/karakastarik/enerjisa-datathon-3rd-place-solution) [March 2022]
 * EnerjiSA WindForce Hackathon - 4th / 128 ([Kaggle](https://www.kaggle.com/code/karakasatarik/imputation-is-all-you-need-4th-place-solution)) [May 2022]
