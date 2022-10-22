@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Tarik 👋</h1>
 <h3 align="center">Senior Data Scientist, PhD Student in Economics </h3>
 
-- 🔭 I’m currently working on **LSTM architecture**
-- 🌱 I’m currently learning **PyTorch, NLP domain**
-- 💬 Ask me about **Shiny, R, Python, Time Series**
-- 📫 How to reach me: atarikkarakas@gmail.com
-
 
 
 <h3 > Profiles </h3>
