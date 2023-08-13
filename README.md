@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tarik 👋</h1>
 <h3 align="center">Senior Data Scientist, PhD Student in Economics </h3>
-<p align="center">Currently working on <b>Machine Learning</b>, <b>Time Series</b> and <b>NLP</b>.</p>
+<p align="center">Currently working on <b>Recommendation Systems</b> and <b>NLP</b>.</p>
 
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=karakastarik&show_icons=true&theme=radical"></p>
 
