@@ -34,7 +34,8 @@
 
 <h3 > Experiences </h3>
 
-* [__Pazarama__](https://www.pazarama.com/) - Senior Data Scientist _(2022/Sep-Present)_
+* [__Trendyol__](https://www.trendyol.com/) - Senior Data Scientist _(2023/Sep-Present)_
+* [__Pazarama__](https://www.pazarama.com/) - Senior Data Scientist _(2022/Sep-2023/Sep)_ _1 yr_
 * [__Turkcell Technology__](http://www.turkcellteknoloji.com.tr/language/en/) - Senior Data Scientist _(2022/Jul-2022/Sep)_ _3 mos_
 * [__PwC__](https://www.pwc.com.tr/en.html) - Data Scientist _(2020/Nov-2022/Jul)_ _1 yr 9 mos_
 * [__Borusan Logistics__](https://www.borusanlojistik.com/en) - Data Science Intern _(2019/Dec-2020/Jul)_ _8 mos_
