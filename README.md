@@ -16,7 +16,9 @@
 <h3 > Kaggle and Other Competitions </h3>
 
 * OTTO – Multi-Objective Recommender System - Top 2% ([Kaggle](https://www.kaggle.com/code/karakasatarik/0-589-single-model-100-candidates-inference-lgbm)) [January 2023]
-* Foursquare - Location Matching - Top 5% ([Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost)) [July 2022]
+* Foursquare - Location Matching - Top 5% ([Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost)) [March 2023]
+* Learning Equality - Curriculum Recommendations - Top 10% ([Kaggle](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/leaderboard)) [July 2022]
+* GDZ Elektrik Datathon 2023 - 1st / 234 ([Kaggle](https://www.kaggle.com/code/karakasatarik/1st-place-solution-public-1-546-priv-1-488)) [April 2023]
 * Teknofest NLP Competition - 1st / over 60 teams ([Github](https://github.com/L2-Regulasyon/Teknofest)) [August 2022]
 * Anadolu Hayat Emeklilik Datathon - 1st / 114 ([Kaggle](https://www.kaggle.com/code/ismaildennizli/1st-place-solution-catpower)) [June 2022]
 * EnerjiSA Energy Datathon - 3rd / 207 ([Github](https://github.com/karakastarik/enerjisa-datathon-3rd-place-solution)) [March 2022]
