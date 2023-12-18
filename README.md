@@ -14,10 +14,14 @@
 
 
 <h3 > Kaggle and Other Competitions </h3>
+<h4 > Global </h4>
 
 * OTTO – Multi-Objective Recommender System - Top 2% ([Kaggle](https://www.kaggle.com/code/karakasatarik/0-589-single-model-100-candidates-inference-lgbm)) [January 2023]
 * Foursquare - Location Matching - Top 5% ([Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost)) [July 2022]
 * Learning Equality - Curriculum Recommendations - Top 10% ([Kaggle](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/leaderboard)) [March 2023]
+
+<h4 > Turkey </h4>
+
 * GDZ Elektrik Datathon 2023 - 1st / 234 ([Kaggle](https://www.kaggle.com/code/karakasatarik/1st-place-solution-public-1-546-priv-1-488)) [April 2023]
 * Teknofest NLP Competition - 1st / over 60 teams ([Github](https://github.com/L2-Regulasyon/Teknofest)) [August 2022]
 * Anadolu Hayat Emeklilik Datathon - 1st / 114 ([Kaggle](https://www.kaggle.com/code/ismaildennizli/1st-place-solution-catpower)) [June 2022]
@@ -26,7 +30,7 @@
 * EnerjiSA WindForce Hackathon - 4th / 128 ([Kaggle](https://www.kaggle.com/code/karakasatarik/imputation-is-all-you-need-4th-place-solution)) [May 2022]
 * GDZ’22 Datathon - 5th / 72 ([Kaggle](https://www.kaggle.com/code/karakasatarik/5th-place-solution-outlier-roulette)) [Sep 2022]
 
-<h3 > Publications </h3>
+<h3 > Papers </h3>
 
 * Karakas, A.T. and Sener, S., 2019. _The effect of economic growth on energy efficiency: Evidence from high, upper-middle and lower-middle income countries._ Procedia Computer Science, 158, 2019, Pages 523-532. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050919312451))
 
