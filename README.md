@@ -22,6 +22,7 @@
 
 <h4 > Turkey </h4>
 
+* Anadolu Hayat Emeklilik Datathon 2024 - 1st / 185 ([Github](https://github.com/unique-func/ahe24-solution/blob/main/ahe-datathon-24-1st-place-solution.ipynb)) [March 2024
 * GDZ Elektrik Datathon 2023 - 1st / 234 ([Kaggle](https://www.kaggle.com/code/karakasatarik/1st-place-solution-public-1-546-priv-1-488)) [April 2023]
 * Teknofest NLP Competition - 1st / over 60 teams ([Github](https://github.com/L2-Regulasyon/Teknofest)) [August 2022]
 * Anadolu Hayat Emeklilik Datathon - 1st / 114 ([Kaggle](https://www.kaggle.com/code/ismaildennizli/1st-place-solution-catpower)) [June 2022]
