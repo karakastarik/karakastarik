@@ -1,51 +1,88 @@
 <h1 align="center">Hi, I'm Tarik 👋</h1>
-<h3 align="center">Senior Data Scientist</h3>
-<p align="center">Currently working on <b>Recommendation Systems</b> and <b>NLP</b>.</p>
+<h3 align="center">Data Science Team Lead · Kaggle Master</h3>
 
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=karakastarik&show_icons=true&theme=radical"></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karakastarik/">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/karakasatarik">Kaggle</a> ·
+  <a href="https://scholar.google.com/citations?user=vNxPm_oAAAAJ">Google Scholar</a>
+</p>
 
+I lead a three-person Recommendation team at **Trendyol Go by Uber Eats**, working on recommendation systems and NLP/LLM applications for quick commerce. My background spans search, personalization, and production ML, alongside competitive data science and research in economics.
 
-<h3 > Profiles </h3>
+## What I Work On
 
-* [Kaggle](https://www.kaggle.com/karakasatarik)
-* [Linkedln](https://www.linkedin.com/in/karakastarik/)
-* [Google Scholar](https://scholar.google.com/citations?user=vNxPm_oAAAAJ&hl=tr&oi=ao)
-* [ResearchGate](https://www.researchgate.net/profile/Ahmet-Karakas-5)
+- **Search & recommendations:** retrieval, ranking, hybrid recommendation systems, and personalization.
+- **NLP & LLMs:** solutions built around large-scale unstructured data and quick-commerce use cases.
+- **ML delivery & leadership:** experimentation, production ML pipelines, technical mentoring, and data science strategy.
 
+## Experience
 
-<h3 > Kaggle and Other Competitions </h3>
-<h4 > Global </h4>
+**Trendyol Group → Trendyol Go by Uber Eats**  
+*Tech Lead → Data Science Team Lead | Jan 2025 – Present*
 
-* OTTO – Multi-Objective Recommender System - Top 2% ([Kaggle](https://www.kaggle.com/code/karakasatarik/0-589-single-model-100-candidates-inference-lgbm)) [January 2023]
-* Foursquare - Location Matching - Top 5% ([Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost)) [July 2022]
-* Learning Equality - Curriculum Recommendations - Top 10% ([Kaggle](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/leaderboard)) [March 2023]
+- Define data science priorities aligned with business goals and mentor the team on scalable production ML systems.
+- Coordinate ML platform migration and technical alignment with Uber's global technology organization during the Uber Eats integration.
 
-<h4 > Turkey </h4>
+**Trendyol Group**  
+*Senior Data Scientist | Sep 2023 – Jan 2025*
 
-* Anadolu Hayat Emeklilik Datathon 2024 - 1st / 185 ([Github](https://github.com/unique-func/ahe24-solution/blob/main/ahe-datathon-24-1st-place-solution.ipynb)) [March 2024
-* GDZ Elektrik Datathon 2023 - 1st / 234 ([Kaggle](https://www.kaggle.com/code/karakasatarik/1st-place-solution-public-1-546-priv-1-488)) [April 2023]
-* Teknofest NLP Competition - 1st / over 60 teams ([Github](https://github.com/L2-Regulasyon/Teknofest)) [August 2022]
-* Anadolu Hayat Emeklilik Datathon - 1st / 114 ([Kaggle](https://www.kaggle.com/code/ismaildennizli/1st-place-solution-catpower)) [June 2022]
-* EnerjiSA Energy Datathon - 3rd / 207 ([Github](https://github.com/karakastarik/enerjisa-datathon-3rd-place-solution)) [March 2022]
-* Migros Datathon - 3rd / 186 ([Kaggle](https://www.kaggle.com/code/nlztrk/3rd-place-solution-0-51376-0-47111)) [March 2022]
-* EnerjiSA WindForce Hackathon - 4th / 128 ([Kaggle](https://www.kaggle.com/code/karakasatarik/imputation-is-all-you-need-4th-place-solution)) [May 2022]
-* GDZ’22 Datathon - 5th / 72 ([Kaggle](https://www.kaggle.com/code/karakasatarik/5th-place-solution-outlier-roulette)) [Sep 2022]
+- Worked across Search and Recommendation teams on retrieval, ranking, and personalization.
+- Designed and analyzed A/B tests for conversion impact and applied NLP to large-scale unstructured data.
 
-<h3 > Papers </h3>
+<details>
+<summary>Earlier experience</summary>
 
-* Karakas, A.T. and Sener, S., 2019. _The effect of economic growth on energy efficiency: Evidence from high, upper-middle and lower-middle income countries._ Procedia Computer Science, 158, 2019, Pages 523-532. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1877050919312451))
+| Company | Role | Period | Focus |
+| --- | --- | --- | --- |
+| Pazarama | Senior Data Scientist | Sep 2022 – Sep 2023 | Search quality, NLP, hybrid recommendations, and Airflow pipelines |
+| Turkcell Technology | Senior Data Scientist | Jul 2022 – Sep 2022 | Churn and acquisition models, validation, and calibration |
+| PwC | Advanced Analytics – Data Scientist | Nov 2020 – Jul 2022 | R Shiny and Python AutoML applications, feature engineering, and time series |
+| Borusan Logistics | Data Science Intern | Dec 2019 – Jul 2020 | Data science internship |
 
-* Karakas A.T., Bayraç, H.N. and Delican, D., 2020. _The Effect of Biofuels Policies on Oil Consumption in the Transportation Sector in OECD Countries._ Eskişehir Osmangazi Üniversitesi İİBF Dergisi, 15-3,2020, Pages 811–828. ([DergiPark](https://dergipark.org.tr/en/pub/oguiibf/issue/56280/525504))
+</details>
 
-* Karakas A.T. and Hobikoglu, E.H., 2019. _The Effect of Possible Changes in Brent Oil Price on Manufacturing Industry: The Case of Turkey._ ([ResearchGate](https://www.researchgate.net/profile/Ahmet-Karakas-5/publication/331935381_Brent_Petrol_Fiyatindaki_Olasi_Degisikliklerin_Imalat_Sanayi_Sektorune_Etkileri_Turkiye_Ornegi/links/5c938b4c299bf111693c2db8/Brent-Petrol-Fiyatindaki-Olasi-Degisikliklerin-Imalat-Sanayi-Sektoeruene-Etkileri-Tuerkiye-Oernegi.pdf))
+## Competition Highlights
 
-<h3 > Experiences </h3>
+| Year | Competition | Result |
+| --- | --- | --- |
+| 2025 | BTK Akademi Datathon | **1st / 571 teams** |
+| 2025 | CIBMTR – Equity in post-HCT Survival Predictions | **2nd / 3,375 teams** |
+| 2024 | [Anadolu Hayat Emeklilik Datathon](https://github.com/unique-func/ahe24-solution/blob/main/ahe-datathon-24-1st-place-solution.ipynb) | **1st / 185 teams** |
+| 2023 | [GDZ Elektrik Datathon](https://www.kaggle.com/code/karakasatarik/1st-place-solution-public-1-546-priv-1-488) | **1st / 234 teams** |
+| 2023 | [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/code/karakasatarik/0-589-single-model-100-candidates-inference-lgbm) | **Top 2%** |
+| 2022 | [Teknofest NLP Competition](https://github.com/L2-Regulasyon/Teknofest) | **1st / 60+ teams** |
+| 2022 | [Anadolu Hayat Emeklilik Datathon](https://www.kaggle.com/code/ismaildennizli/1st-place-solution-catpower) | **1st / 114 teams** |
 
-* [__Trendyol__](https://www.trendyol.com/) - Senior Data Scientist _(2023/Sep-Present)_
-* [__Pazarama__](https://www.pazarama.com/) - Senior Data Scientist _(2022/Sep-2023/Sep)_ _1 yr_
-* [__Turkcell Technology__](http://www.turkcellteknoloji.com.tr/language/en/) - Senior Data Scientist _(2022/Jul-2022/Sep)_ _3 mos_
-* [__PwC__](https://www.pwc.com.tr/en.html) - Data Scientist _(2020/Nov-2022/Jul)_ _1 yr 9 mos_
-* [__Borusan Logistics__](https://www.borusanlojistik.com/en) - Data Science Intern _(2019/Dec-2020/Jul)_ _8 mos_
+<details>
+<summary>More competition results</summary>
 
+| Year | Competition | Result |
+| --- | --- | --- |
+| 2023 | [Learning Equality – Curriculum Recommendations](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/leaderboard) | Top 10% |
+| 2022 | [Foursquare – Location Matching](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost) | Top 5% |
+| 2022 | [EnerjiSA Energy Datathon](https://github.com/karakastarik/enerjisa-datathon-3rd-place-solution) | 3rd / 207 teams |
+| 2022 | [Migros Datathon](https://www.kaggle.com/code/nlztrk/3rd-place-solution-0-51376-0-47111) | 3rd / 186 teams |
+| 2022 | [EnerjiSA WindForce Hackathon](https://www.kaggle.com/code/karakasatarik/imputation-is-all-you-need-4th-place-solution) | 4th / 128 teams |
+| 2022 | [GDZ Datathon](https://www.kaggle.com/code/karakasatarik/5th-place-solution-outlier-roulette) | 5th / 72 teams |
 
+</details>
 
+## Speaking & Community
+
+- **Istanbul Bilişim Zirvesi (2026):** panel speaker on national and international data science competitions.
+- **YTÜ Data League Summit (2026):** panel speaker on Kaggle and careers.
+- **Yıldız Veri Günleri (2025):** guest speaker on quick-commerce data science and careers.
+- **Teknofest Trendyol E-Commerce Hackathon:** jury member.
+
+## Research
+
+My academic background is in economics, with an MSc in Technology and Industry Economics from Istanbul University. My published research covers energy efficiency, biofuel policies, and oil prices.
+
+<details>
+<summary>Selected publications</summary>
+
+- **Karakas, A.T., Bayraç, H.N., & Delican, D. (2020).** [The Effect of Biofuels Policies on Oil Consumption in the Transportation Sector in OECD Countries.](https://dergipark.org.tr/en/pub/oguiibf/issue/56280/525504) Eskişehir Osmangazi Üniversitesi İİBF Dergisi, 15(3), 811–828.
+- **Karakas, A.T., & Sener, S. (2019).** [The effect of economic growth on energy efficiency: Evidence from high, upper-middle and lower-middle income countries.](https://www.sciencedirect.com/science/article/pii/S1877050919312451) Procedia Computer Science, 158, 523–532.
+- **Karakas, A.T., & Hobikoglu, E.H. (2019).** [The Effect of Possible Changes in Brent Oil Price on Manufacturing Industry: The Case of Turkey.](https://www.researchgate.net/profile/Ahmet-Karakas-5/publication/331935381_Brent_Petrol_Fiyatindaki_Olasi_Degisikliklerin_Imalat_Sanayi_Sektorune_Etkileri_Turkiye_Ornegi/links/5c938b4c299bf111693c2db8/Brent-Petrol-Fiyatindaki-Olasi-Degisikliklerin-Imalat-Sanayi-Sektoeruene-Etkileri-Tuerkiye-Oernegi.pdf) Eurasian Business & Economics Journal, 17, 27–42.
+
+</details>
